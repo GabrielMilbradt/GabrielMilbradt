@@ -22,7 +22,7 @@ Connect with me:
   <a href="https://wa.me/5521985607704">
   <img align="left" alt="icone do Whatzapp" width="180px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a> 
-  <a href="www.linkedin.com/in/gabriel-milbradt">
+  <a href="https://www.linkedin.com/in/gabriel-milbradt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img align="left" alt="LinkedIn" width="180px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
